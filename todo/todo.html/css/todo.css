@@ -1,0 +1,50 @@
+html {
+    font-size: 20px;
+  }
+  
+  body,html {
+    background:linear-gradient(#F89174, #FFC778);
+    width: 960px;
+    margin: 1rem auto;
+    font-family: serif;
+  }
+  h1{
+    font-size:5em;
+  text-align:center;
+  line-height:0.95em;
+  font-weight:bold;
+  color: #FFF;
+  text-shadow: 
+    0 0 0.10em #2962FF,
+    0 0 0.15em #2962FF,
+    0 0 0.80em #2962FF,
+    0 0 1.00em #2962FF;
+  }
+
+  #write{
+    text-align:center;
+  }
+  h2 {
+    
+    font-size: 1.2rem;
+    padding: 1rem;
+  }
+  
+  li {
+    margin: 2rem 2rem 2rem 0;
+    display: flex;
+    justify-content: space-between;
+  }
+  #memo{
+    text-align:center;
+  }
+  #list{
+    text-align:center;
+    
+
+    background-color: #F0F8FF;
+    width: 50%;
+    height: 400px;
+    border-radius: 1rem;
+    margin-top: 2rem;
+  }
